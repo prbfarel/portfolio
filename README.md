@@ -5,8 +5,9 @@ I am a dedicated undergraduate researcher specializing in **biochemistry, bioinf
 
 ### 🔬 Research Interests
 - Whole Genome Sequencing (WGS) & Metagenomics
-- Antimicrobial Resistance (AMR) Gene Analysis
+- Big Data Analytics using R
 - Bioinformatics & Computational Biology
+- Antimicrobial Resistance (AMR) genes
 
 ---
 
@@ -14,7 +15,7 @@ I am a dedicated undergraduate researcher specializing in **biochemistry, bioinf
 
 ### **Book Publication**
 - **Co-Author** | *"Mengungkap Genom Bakteri: Analisis WGS dan Identifikasi Gen Resistensi Antimikroba (AMR)"*
-  - Published by IPB Press (June - December2025)
+  - Published by IPB Press (June - December 2025)
   - Contributed chapters on sequencing technologies, analysis programs, data visualization, and AMR gene identification
   - Designed book cover and layout
   - [View Publication](#) *(link when available)*
@@ -23,6 +24,9 @@ I am a dedicated undergraduate researcher specializing in **biochemistry, bioinf
 - **2nd Author** | *"Bioactive compounds of Sungkai (Peronema canescens Jack) as Natural Antiallergen: In Silico Study"*
   - Published in Biointerface Research in Applied Chemistry (April - September 2025)
   - [Read Paper](#) *(link when available)*
+
+### **Capstone Project**
+- 
 
 ---
 
@@ -108,32 +112,17 @@ I am a dedicated undergraduate researcher specializing in **biochemistry, bioinf
 
 ---
 
-## 📊 GitHub Stats
-
-![Farel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/farel-purba-2480b91b5"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:farelpurba09@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/prbfarel"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 📍 Bogor, Indonesia  
 📧 farelpurba09@gmail.com  
 📱 +6281262879568
-
----
-
-### 🌱 Current Focus
-- Mastering algorithms and programming languages for bioinformatics tools
-- Advanced proficiency in big data analysis using R Studio
-- Antimicrobial resistance gene analysis from soil environments
-- Contributing to genetic-based health strategies and precision medicine
 
 ---
 
