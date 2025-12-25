@@ -7,7 +7,6 @@ I am a dedicated undergraduate researcher specializing in **biochemistry, bioinf
 - Whole Genome Sequencing (WGS) & Metagenomics
 - Antimicrobial Resistance (AMR) Gene Analysis
 - Bioinformatics & Computational Biology
-- Precision Medicine & Genetic-Based Health Strategies
 
 ---
 
@@ -15,7 +14,7 @@ I am a dedicated undergraduate researcher specializing in **biochemistry, bioinf
 
 ### **Book Publication**
 - **Co-Author** | *"Mengungkap Genom Bakteri: Analisis WGS dan Identifikasi Gen Resistensi Antimikroba (AMR)"*
-  - Published by IPB Press (June - November 2025)
+  - Published by IPB Press (June - December2025)
   - Contributed chapters on sequencing technologies, analysis programs, data visualization, and AMR gene identification
   - Designed book cover and layout
   - [View Publication](#) *(link when available)*
@@ -47,12 +46,6 @@ I am a dedicated undergraduate researcher specializing in **biochemistry, bioinf
   - Analyzed variations in enzymatic oxidation and drying time effects
   - Focus: Catechin oxidation, physical quality, and organoleptic properties
   - [View Research](#) *(link when available)*
-
-### 🍄 **Antifungal Development** | *PKM 2024*
-- **Natural Antifungal from Banana Stem Cells**
-  - Research design for manufacturing antifungal from methanol extract
-  - Target: Treatment of Tinea Cruris disease
-  - [View Proposal](#) *(link when available)*
 
 ---
 
