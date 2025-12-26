@@ -26,7 +26,8 @@ I am a dedicated undergraduate researcher specializing in **biochemistry, bioinf
   - [Read Paper](#) *(link when available)*
 
 ### **Capstone Project**
-- 
+- **Bionanotechnology** | NanoCure: Atherosclerosis therapy using Anti-CD36 targeted microneedle patch with encapsulated nanourcumene
+
 
 ---
 
