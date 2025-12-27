@@ -18,6 +18,7 @@ I am a dedicated undergraduate researcher specializing in **biochemistry, bioinf
 <p align="center">
   <img src="Documentaries/Book_project.png" width="200" title="Book Project">
 </p>
+
   - Published by IPB Press (June - December 2025)
   - Contributed chapters on sequencing technologies, analysis programs, data visualization, and AMR gene identification
   - Designed book cover and layout
