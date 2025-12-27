@@ -15,6 +15,9 @@ I am a dedicated undergraduate researcher specializing in **biochemistry, bioinf
 
 ### **Book Publication**
 - **Co-Author** | *"Mengungkap Genom Bakteri: Analisis WGS dan Identifikasi Gen Resistensi Antimikroba (AMR)"*
+<p align="center">
+  <img src="https://imgur.com/a/hTkNrkp#UmTdo83" width="200" title="Book Project">
+</p>
   - Published by IPB Press (June - December 2025)
   - Contributed chapters on sequencing technologies, analysis programs, data visualization, and AMR gene identification
   - Designed book cover and layout
