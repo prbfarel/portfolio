@@ -27,7 +27,7 @@ I am a dedicated undergraduate researcher specializing in **biochemistry, bioinf
 ### **Research Publication**
 - **2nd Author** | *"Bioactive compounds of Sungkai (Peronema canescens Jack) as Natural Antiallergen: In Silico Study"*
 <p align="center">
-  <img src="Documentaries/briac.png" width="80%" title="Dock Vis">
+  <img src="Documentaries/briac.png" width="80%" title="Journal">
 </p>
 
   - Published in Biointerface Research in Applied Chemistry (April - September 2025)
@@ -40,8 +40,22 @@ I am a dedicated undergraduate researcher specializing in **biochemistry, bioinf
 
 ### **Capstone Project**
 - **Bionanotechnology** | NanoCure: Atherosclerosis therapy using Anti-CD36 targeted microneedle patch with encapsulated nanourcumene
-- **Biochemistry Innovation 4.0** | Smart Enzymatic Biofuel Cell Nanomaterial based on IoT and Machine learning for renewable energy in the era of global industrial transformation 5.0
+<p align="center">
+  <img src="Documentaries/bionano.png" width="50%" title="Bionano">
+</p>
 
+- **Biochemistry Innovation 4.0** | Smart Enzymatic Biofuel Cell Nanomaterial based on IoT and Machine learning for renewable energy in the era of global industrial transformation 5.0
+  
+  - Designing IoT scheme for smart EBFC
+  <p align="center">
+  <img src="Documentaries/esp32_iot.png" width="70%" title="IoT Scheme">
+  </p>
+
+  - Conducting scheme design for EBFC workflow
+  <p align="center">
+  <img src="Documentaries/ebfc_scheme.png" width="70%" title="IoT Scheme">
+  </p>
+  
 ---
 
 ## 💻 Technical Projects
