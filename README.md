@@ -73,7 +73,7 @@ I am a dedicated undergraduate student specializing in **biochemistry, bioinform
     - **Dynamic Visualization**: Generates publication-ready. **Stacked Barplots** (for community composition) and **Dumbbell plots** (for abundance shifts).
     - [View Repository](https://github.com/prbfarel/Metagenomic-Taxonomy-Visualization)
 
-**Soil Metagenome Analysis** | *Current Research*
+**Soil Metagenome Analysis** | *Current Thesis Research*
   - Collecting sample from IPB Arboretum Forest's soils and exracting microbiome DNA using FastDNA SPIN Kit for Soil
   - Conducting DNA gel electrophoresis, Qubit, and NanoDrop for DNA quality & quantity evaluation
   - Whole metagenome sequencing using PromethION 2 Solo
