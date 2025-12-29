@@ -16,8 +16,9 @@ I am a dedicated undergraduate researcher specializing in **biochemistry, bioinf
 ### **Book Publication**
 - **Co-Author** | *"Mengungkap Genom Bakteri: Analisis WGS dan Identifikasi Gen Resistensi Antimikroba (AMR)"*
 <p align="center">
-  <img src="https://imgur.com/a/hTkNrkp#UmTdo83" width="200" title="Book Project">
+  <img src="Documentaries/Book_project.png" width="200" title="Book Project">
 </p>
+
   - Published by IPB Press (June - December 2025)
   - Contributed chapters on sequencing technologies, analysis programs, data visualization, and AMR gene identification
   - Designed book cover and layout
@@ -26,11 +27,12 @@ I am a dedicated undergraduate researcher specializing in **biochemistry, bioinf
 ### **Research Publication**
 - **2nd Author** | *"Bioactive compounds of Sungkai (Peronema canescens Jack) as Natural Antiallergen: In Silico Study"*
   - Published in Biointerface Research in Applied Chemistry (April - September 2025)
+  - Conducting molecular docking and density functional theory (DFT) analysis to carry out drug design of natural antihistamines.
   - [Read Paper](#) *(link when available)*
 
 ### **Capstone Project**
 - **Bionanotechnology** | NanoCure: Atherosclerosis therapy using Anti-CD36 targeted microneedle patch with encapsulated nanourcumene
-
+- **Biochemistry Innovation 4.0** | Smart Enzymatic Biofuel Cell Nanomaterial based on IoT and Machine learning for renewable energy in the era of global industrial transformation 5.0
 
 ---
 
