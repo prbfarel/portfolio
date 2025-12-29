@@ -27,6 +27,10 @@ I am a dedicated undergraduate researcher specializing in **biochemistry, bioinf
 ### **Research Publication**
 - **2nd Author** | *"Bioactive compounds of Sungkai (Peronema canescens Jack) as Natural Antiallergen: In Silico Study"*
   - Published in Biointerface Research in Applied Chemistry (April - September 2025)
+<p align="center">
+  <img src="Documentaries/docking.png" width="100%" title="Dock Vis">
+</p>
+
   - Conducting molecular docking and density functional theory (DFT) analysis to carry out drug design of natural antihistamines.
   - [Read Paper](#) *(link when available)*
 
